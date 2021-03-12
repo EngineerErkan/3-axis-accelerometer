@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'AD650SD'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "AD650SD" (!) = "", "DIP775W58P254L1943H508Q14N", "Dual-In-Line Packages", "584-AD650SD", "https://www.mouser.co.uk/ProductDetail/Analog-Devices/AD650SD?qs=NmRFExCfTkGUYsKvHm%2FjFQ%3D%3D", "AD650SD", "https://www.arrow.com/en/products/ad650sd/analog-devices", "ANALOG DEVICES - AD650SD - V/F/V CONVERTER, 1MHZ, DIP-14", "https://www.analog.com/media/en/technical-documentation/data-sheets/AD650.pdf", "5.08 mm"
+END_PART
+
+END.

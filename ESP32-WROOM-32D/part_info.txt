@@ -1,0 +1,9 @@
+Manufacturer=Espressif Systems
+PartNumber=ESP32-WROOM-32D
+PartCategory=Antenna
+PackageCategory=Other
+PinCount=39
+Version=1.1
+Released=2018-11-19 10:56:31
+Downloaded=2021-03-11 07:09:32
+3D=Y

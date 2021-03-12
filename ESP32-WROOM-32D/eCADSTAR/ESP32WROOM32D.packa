@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ESP32-WROOM-32D"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-11-19-10:56:31)
+    (mountForm default
+        (footprintRef "ESP32WROOM32D")
+        (spec "System")
+    )
+)

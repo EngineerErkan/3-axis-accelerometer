@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=AD650SD
+PartCategory=Integrated Circuit
+PackageCategory=Dual-In-Line Packages
+PinCount=14
+Version=1.1
+Released=2019-09-06 08:00:26
+Downloaded=2021-03-11 15:03:47
+3D=Y

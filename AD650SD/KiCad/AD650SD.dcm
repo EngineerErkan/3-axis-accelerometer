@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD650SD
+D ANALOG DEVICES - AD650SD - V/F/V CONVERTER, 1MHZ, DIP-14
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD650.pdf
+$ENDCMP
+#
+#End Doc Library

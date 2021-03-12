@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "AD650SD"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-09-06-08:00:26)
+    (mountForm default
+        (footprintRef "DIP775W58P254L1943H508Q14N")
+        (spec "System")
+    )
+)

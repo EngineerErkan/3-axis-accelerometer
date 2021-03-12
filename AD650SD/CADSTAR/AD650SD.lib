@@ -1,0 +1,18 @@
+.AD650SD :1 ;ANALOG DEVICES - AD650SD - V/F/V CONVERTER, 1MHZ, DIP-14
+DIP775W58P254L1943H508Q14N
+*STM IC
+*NGS
+*PLB 1="VOUT" 2="+IN" 3="-IN" 4="BIPOLAR OFFSET CURRENT" 5="-VS" 6="ONE SHOT CAPACITOR" 7="NC" 8="FOUTPUT" 9="COMPARATOR INPUT" 10="DIGITAL GND" 11="ANALOG GND" 12="+VS" 13="OFFSET NULL_1" 14="OFFSET NULL_2"
+*MXP 14
+*DFN AD650SD
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (AD650SD)
+~!Mouser Part Number (584-AD650SD)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices/AD650SD?qs=NmRFExCfTkGUYsKvHm%2FjFQ%3D%3D)
+~!Arrow Part Number (AD650SD)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/ad650sd/analog-devices)
+~!Link Datasheet (https://www.analog.com/media/en/technical-documentation/data-sheets/AD650.pdf)
+~!Height (5.08mm)
+~!3D_Model (AD650SD)
+AD650SD
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 9.1!U 8.1!U 
